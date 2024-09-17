@@ -1,5 +1,6 @@
 ﻿using Counter.Scripts.Contracts;
 using Counter.Scripts.Scripts;
+using Counter.Scripts.Service;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Counter.Tests.Scripts

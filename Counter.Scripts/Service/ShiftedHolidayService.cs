@@ -1,6 +1,6 @@
 ﻿using Counter.Scripts.Contracts;
 
-namespace Counter.Scripts.Scripts
+namespace Counter.Scripts.Service
 {
     /// <summary>
     /// For holidays that move if they fall on a weekend.

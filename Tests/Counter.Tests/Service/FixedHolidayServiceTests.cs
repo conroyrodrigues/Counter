@@ -1,9 +1,4 @@
-﻿using Counter.Scripts.Scripts;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Counter.Scripts.Service;
 
 namespace Counter.Tests.Service
 {

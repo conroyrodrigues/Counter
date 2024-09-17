@@ -1,6 +1,6 @@
 ﻿using Counter.Scripts.Contracts;
 
-namespace Counter.Scripts.Scripts
+namespace Counter.Scripts.Service
 {
     /// <summary>
     /// For holidays that occur on a fixed date every year.
