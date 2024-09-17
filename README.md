@@ -11,7 +11,7 @@ This project follows the **Separation of Concerns (SoC)** and  **Dependency Inje
 - Counting business days between two dates, excluding public holidays.
 
 ## System Requirement
-To run the project. you could rn it using
+To run the project. you could use
 - Net Version 8.0
 or 
 - You could run the project using docker 
