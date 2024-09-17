@@ -24,3 +24,7 @@ or
 ```
 dotnet test
 ```
+## Run the Project
+```
+dotnet run build
+```
